@@ -1,5 +1,9 @@
 # PST Data Analytics Dashboard
- 
+
+## Authors
+- Charles Oh
+- Riley Wilkins
+
 ## Overview
 PST (Pre-screening Test) data analytics dashboard automatically extracts data from Excel sheets with PST results, transfers data into MySQL database, and generates data analysis and visualizations on Sharepoint.
 
