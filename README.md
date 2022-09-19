@@ -35,8 +35,6 @@ In order for an user to run the aforementioned python script, they should simply
 Note that two things need to be set in order for this to work. The first is that the `workdir` variable in `xlsx2SPlist.py` should be set to point to a directory that contains `settings.cfg` and the .xlsx files to be converted to sharepoint.
 
 
-<img src="images/cfg.PNG"/>
-
 Secondly, the user should change the above variables in the `settings.cfg` to match the specifications below:
 - username: sharepoint username without email extension
 - password: sharepoint password
